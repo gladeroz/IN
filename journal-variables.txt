@@ -1,0 +1,110 @@
+ VARIABLE POST : Array
+(
+    [signature] => 9b3b59614ebd139456ae815832036e2dafcaa1ea
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 5000
+    [vads_auth_mode] => FULL
+    [vads_auth_number] => 535033
+    [vads_auth_result] => 00
+    [vads_bank_code] => 16607
+    [vads_bank_label] => Banque populaire du Sud
+    [vads_bank_product] => F
+    [vads_brand_management] => {\"userChoice\":false,\"brand\":\"CB\",\"brandList\":\"CB|VISA\"}
+    [vads_capture_delay] => 0
+    [vads_card_brand] => CB
+    [vads_card_country] => FR
+    [vads_card_number] => 405937XXXXXX6678
+    [vads_contract_used] => 3952062
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_effective_amount] => 5000
+    [vads_effective_creation_date] => 20180605195204
+    [vads_effective_currency] => 978
+    [vads_expiry_month] => 9
+    [vads_expiry_year] => 2018
+    [vads_extra_result] => 
+    [vads_hash] => 76ffe4194d5898d5cdd0becc884aee90e9cd3a97951162b26170aeee97e0d6d4
+    [vads_language] => fr
+    [vads_operation_type] => DEBIT
+    [vads_page_action] => PAYMENT
+    [vads_payment_certificate] => 1a72690b299cefcf8bed8d46c90f0b18d52e6050
+    [vads_payment_config] => SINGLE
+    [vads_payment_src] => EC
+    [vads_pays_ip] => FR
+    [vads_presentation_date] => 20180605195204
+    [vads_result] => 00
+    [vads_sequence_number] => 1
+    [vads_site_id] => 65081683
+    [vads_threeds_cavv] => AAABBBNpRCcUEVJQAWlEAAAAAAA=
+    [vads_threeds_cavvAlgorithm] => 2
+    [vads_threeds_eci] => 05
+    [vads_threeds_enrolled] => Y
+    [vads_threeds_error_code] => 
+    [vads_threeds_exit_status] => 10
+    [vads_threeds_sign_valid] => 1
+    [vads_threeds_status] => Y
+    [vads_threeds_xid] => T3c1UG1lRk9VMFNGNXpYRE9JT2k=
+    [vads_trans_date] => 20180605195152
+    [vads_trans_id] => 100028
+    [vads_trans_status] => AUTHORISED
+    [vads_trans_uuid] => ca1ab8681e044edea4ba66c845713983
+    [vads_url_check_src] => PAY
+    [vads_validation_mode] => 0
+    [vads_version] => V2
+    [vads_warranty_result] => YES
+)
+ VARIABLE POST : Array
+(
+    [signature] => a213b5fb0e88de4a31c7b881f0c9e7e63059d86e
+    [vads_action_mode] => INTERACTIVE
+    [vads_amount] => 5000
+    [vads_auth_mode] => FULL
+    [vads_auth_number] => 465592
+    [vads_auth_result] => 00
+    [vads_bank_code] => 16607
+    [vads_bank_label] => Banque populaire du Sud
+    [vads_bank_product] => F
+    [vads_brand_management] => {\"userChoice\":false,\"brand\":\"CB\",\"brandList\":\"CB|VISA\"}
+    [vads_capture_delay] => 0
+    [vads_card_brand] => CB
+    [vads_card_country] => FR
+    [vads_card_number] => 405937XXXXXX0706
+    [vads_contract_used] => 3952062
+    [vads_ctx_mode] => PRODUCTION
+    [vads_currency] => 978
+    [vads_effective_amount] => 5000
+    [vads_effective_creation_date] => 20180605202135
+    [vads_effective_currency] => 978
+    [vads_expiry_month] => 9
+    [vads_expiry_year] => 2018
+    [vads_extra_result] => 
+    [vads_hash] => 3bb41f7ffc8010f9b412e160c9a42314dd4808b81867e33c1a12dd852e734974
+    [vads_language] => fr
+    [vads_operation_type] => DEBIT
+    [vads_page_action] => PAYMENT
+    [vads_payment_certificate] => 450a0110d847bcaa5429743d4e06c518d44608b2
+    [vads_payment_config] => SINGLE
+    [vads_payment_src] => EC
+    [vads_pays_ip] => FR
+    [vads_presentation_date] => 20180605202135
+    [vads_result] => 00
+    [vads_sequence_number] => 1
+    [vads_site_id] => 65081683
+    [vads_threeds_cavv] => AAABAUl0JnMSEVJQCXQmAAAAAAA=
+    [vads_threeds_cavvAlgorithm] => 2
+    [vads_threeds_eci] => 05
+    [vads_threeds_enrolled] => Y
+    [vads_threeds_error_code] => 
+    [vads_threeds_exit_status] => 10
+    [vads_threeds_sign_valid] => 1
+    [vads_threeds_status] => Y
+    [vads_threeds_xid] => VFpnRWE1TVhjU2lsckZDOTBNVVo=
+    [vads_trans_date] => 20180605202121
+    [vads_trans_id] => 100030
+    [vads_trans_status] => AUTHORISED
+    [vads_trans_uuid] => 7afd755e544346ca9b687e5ed2dd818e
+    [vads_url_check_src] => PAY
+    [vads_validation_mode] => 0
+    [vads_version] => V2
+    [vads_warranty_result] => YES
+)
